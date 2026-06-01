@@ -1,0 +1,57 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model weights (too large)
+*.pt
+
+# Training runs (generated)
+runs/
+
+# Results (generated)
+results/
+results_raw/
+results_v2/
+results_seams/
+results_preprocess/
+
+# Preprocessed images (generated)
+project_image_preprocess/
+project_image_preprocess_v2/
+project_image_preprocess_dog/
+
+# Synthetic dataset (generated)
+training_data/synthetic_dataset/
+
+# Old multiview templates (part-ID-based, replaced by new structure)
+training_data/multiview_templates/1*/
+training_data/multiview_templates/2*/
+training_data/multiview_templates/3*/
+training_data/multiview_templates/4*/
+training_data/multiview_templates/5*/
+training_data/multiview_templates/6*/
+training_data/multiview_templates/7*/
+training_data/multiview_templates/8*/
+training_data/multiview_templates/9*/
+
+# Claude local config
+.claude/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX auxiliary
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz

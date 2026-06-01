@@ -1,0 +1,74 @@
+{
+  "00": {
+    "part_id": "3001",
+    "name": "Brick 2x4"
+  },
+  "01": {
+    "part_id": "3020",
+    "name": "Plate 2x3"
+  },
+  "02": {
+    "part_id": "56145",
+    "name": "Wheel Rim 20x30 with 6 Dual Spokes and External Ribs"
+  },
+  "03": {
+    "part_id": "2730",
+    "name": "Technic Brick 1x10 with holes"
+  },
+  "04": {
+    "part_id": "2362b",
+    "name": "Panel 1x2x3 with Hollow Studs"
+  },
+  "05": {
+    "part_id": "87079",
+    "name": "Tile 2x4 With Groove"
+  },
+  "06": {
+    "part_id": "17485",
+    "name": "Brick 2x2 round with pin hole"
+  },
+  "07": {
+    "part_id": "4600",
+    "name": "Plate 2x2 with 2 Wheel Pins"
+  },
+  "08": {
+    "part_id": "45176",
+    "name": "Cone 3x3x2"
+  },
+  "09": {
+    "part_id": "99206",
+    "name": "Plate 2x2 with 2 Studs on the side"
+  },
+  "10": {
+    "part_id": "52214",
+    "name": "Slope brick 6x2 curved"
+  },
+  "11": {
+    "part_id": "6215",
+    "name": "Brick 2x3 with Curved Top"
+  },
+  "12": {
+    "part_id": "56891",
+    "name": "Tyre 18-56x17 Off-Road with Offset Centre"
+  },
+  "13": {
+    "part_id": "70695",
+    "name": "Tyre 26-49x30 Tractor"
+  },
+  "14": {
+    "part_id": "60608",
+    "name": "Window 1x2x3 Pane with Thick Corner Tabs"
+  },
+  "15": {
+    "part_id": "57520",
+    "name": "Technic Sprocket Wheel 25.4"
+  },
+  "16": {
+    "part_id": "55981",
+    "name": "Wheel Rim 14x18 with Holes on Both Sides"
+  },
+  "17": {
+    "part_id": "30414",
+    "name": "Brick 1x4 with Studs on Side"
+  }
+}
